@@ -1,5 +1,5 @@
 # crypto_homes
-Made for adding/creating encrypted sdcard /home (luks) + turns usb stick into hardware key.
+takes current /home directory and creates encrypted sdcard /home (luks) copies + adds to boot + turns usb stick into hardware key.
 
 With Pinephone/Pinetab setups in mind but can be used for other Linux device setups as well.
 
