@@ -3,7 +3,14 @@ Made for adding/creating encrypted sdcard /home (luks) + turns usb stick into ha
 
 With Pinephone/Pinetab setups in mind.
 
-### ALWAYS BACK UP FIRST IN CASE - But if done right your original home will still exist on the internal storage and can easily be switched by commenting out fstab/crypttab
+## About: 
+Ever thought about the benefits of compartmentalization? Such as encrypted "homes" (removable/storable) sdcards separate from your interal storage? Allowing you to create a "work" home encrypted sdcard, maybe a security one where compartmentalizing the encrypted sdcard home is a preference? 
+
+How about a usb key compartmentalized away from your device for additional security? 
+
+This is the idea behind this. To allow secure storage and as many customized home sdcards as you would like to make, without going through all the work by hand.
+
+### SUGGESTED TO BACK UP FIRST IN CASE YOU ENTER BLOCK/DISC DEVICE NAMES WRONG- If done right your original home will still exist on the internal storage and can easily be switched by commenting out fstab/crypttab
 
 Something in the works (functional- still backup) currently found at: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/crypto_homes
 
