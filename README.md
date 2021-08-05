@@ -6,7 +6,7 @@ With Pinephone/Pinetab setups in mind but can be used for other Linux device set
 ## About: 
 Ever thought about the benefits of compartmentalization? Such as additional encrypted "homes" (removable/storable) sdcards in addition to your interal storage home directory (giving you chance to switch back/forth between 'homes')? 
 
-Allowing you to create a "work" home encrypted sdcard, a "personal" encrypted home (environment sdcard) where you can make it to your liking possibly used for things like banking, accounts, and maybe a security encrypted home sdcard where compartmentalizing the encrypted sdcard home is a preference? 
+Allowing you to create a "work" home encrypted sdcard environment, a "personal" encrypted home (environment sdcard) where you can make it to your liking possibly used for things like banking, accounts, and maybe a security encrypted home sdcard where compartmentalizing the encrypted sdcard home is a preference? 
 
 How about creating a usb key (out of any blank usbstick) compartmentalized away from your device for additional security (say you are a journalist, if you turn off the phone without usb stick (and have deleted the password key- optional)? Well, without the usb stick the phone is not going to unlock.
 
