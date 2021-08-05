@@ -4,11 +4,13 @@ Made for adding/creating encrypted sdcard /home (luks) + turns usb stick into ha
 With Pinephone/Pinetab setups in mind.
 
 ## About: 
-Ever thought about the benefits of compartmentalization? Such as encrypted "homes" (removable/storable) sdcards separate from your interal storage? Allowing you to create a "work" home encrypted sdcard, maybe a security one where compartmentalizing the encrypted sdcard home is a preference? 
+Ever thought about the benefits of compartmentalization? Such as encrypted "homes" (removable/storable) sdcards separate from your interal storage? Allowing you to create a "work" home encrypted sdcard, a "personal" encrypted home (environment sdcard) where you can make it to your liking possibly used for things like banking, accounts, and maybe a security encrypted home sdcard where compartmentalizing the encrypted sdcard home is a preference? 
 
-How about a usb key compartmentalized away from your device for additional security? 
+How about creating a usb key (out of any blank usbstick) compartmentalized away from your device for additional security?
 
-This is the idea behind this. To allow secure storage and as many customized home sdcards as you would like to make, without going through all the work by hand.
+NOTE: At this time it still adds a password of your choice and does not delete this password - you can easily do this if you choose. I leave this up to the user as it can be important for some to have that backup password in case anything happened to their usb stick.
+
+That's the idea behind this concept. To allow secure storage and as many compartmentalizable, customized home sdcards as you would like to make, without going through all the work of doing so by hand. In this way you can not only extend your internal storage but also create entirely different Home environments, depending on the occasion/security needs.
 
 ### SUGGESTED TO BACK UP FIRST IN CASE YOU ENTER BLOCK/DISC DEVICE NAMES WRONG- If done right your original home will still exist on the internal storage and can easily be switched by commenting out fstab/crypttab
 
