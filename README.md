@@ -1,9 +1,11 @@
 # crypto_homes
-Made for Pinephone/Pinetab setups in mind (setup for single username (currently)): Convert current $HOME dir into encrypted sdcard with USB stick hardware key to unlock
+Made for adding/creating encrypted sdcard /home (luks) + turns usb stick into hardware key.
 
-### ALWAYS BACK UP FIRST IN CASE
+With Pinephone/Pinetab setups in mind.
 
-Something in the works (but functional- still backup) currently found at: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/crypto_homes
+### ALWAYS BACK UP FIRST IN CASE - But if done right your original home will still exist on the internal storage and can easily be switched by commenting out fstab/crypttab
+
+Something in the works (functional- still backup) currently found at: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/crypto_homes
 
 ### Will be uploading it here on Github (soon) once I finishing more testing/editing.
 
@@ -31,5 +33,12 @@ First asks a few questions to set variables specific to your OS/setup: your form
  
  5) Close volume: closes open volume (optional setting)
 
+-----------------------------
 
-### Make sure to backup before testing - have to emphasize this.
+Learn more with additional tutorials on my public blog: https://www.buymeacoffee.com/posts
+
+And at my video channel mirrors:
+
+https://odysee.com/@RTP
+https://www.youtube.com/c/RTPPrivacyTechTips
+
