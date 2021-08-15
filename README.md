@@ -1,7 +1,14 @@
 # crypto_homes
-takes current /home directory and creates encrypted sdcard /home (luks) copies + adds to boot + turns usb stick into hardware key.
 
-With Pinephone/Pinetab setups in mind but can be used for other Linux device setups as well.
+See my video tutorial/demo on this here: https://tube.tchncs.de/w/cssAP6Syz9vUduCv99ExLN
+
+Right now you can find crypto_homes for download at: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/crypto_homes
+
+make_vol command creates usb key + encrypted sdcard (/home) (luks) + adds to mount at boot.
+
+After running make_vol, simply insert your crypto_homes created usbstick key and boot with the sdcard.
+
+Made with Pinephone/Pinetab setup in mind but can be used for other Linux device setups as well.
 
 ## About: 
 Ever thought about the benefits of compartmentalization? Such as additional encrypted "homes" (removable/storable) sdcards in addition to your interal storage home directory (giving you chance to switch back/forth between 'homes')? 
@@ -18,7 +25,7 @@ That's the idea behind this concept. To allow secure storage and as many compart
 
 Something in the works (functional- still backup) currently found at: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/crypto_homes
 
-### Will be uploading it here on Github (soon) once I finishing more testing/editing.
+### Will be uploading it here on Github (soon) 
 
 ### What does it do?
 
