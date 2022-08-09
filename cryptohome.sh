@@ -32,8 +32,7 @@
 #
 # BMAC: https://www.buymeacoffee.com/politictech
 # CASHAPP: https://cash.app/$HumanRightsTech
-# BTC: 3QDdTcLwLTPXKMBp5dLUhKJG6KbDxWsYWS
-# XMR:481wHzXEsW9E519uu3SiynMuGe1yUT43iiJ8M49fgxfngHr9MUPVNAmPgyjS4XYtvzD1TbK7P5ywUWhGo11ibT2RQhEcRSX
+# XMR:48qtspi5En44mJZLeiMoHYFEmuJfQYb5DLQxLDr7d1NXc53XaAvoT8PS3wBrhEc3VY1wxu5Rgw6oKBYgahpSAYnpHntbQNM
 #
 
 
