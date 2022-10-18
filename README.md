@@ -2,7 +2,7 @@
 
 See my video tutorial/demo on this here: https://tube.tchncs.de/w/cssAP6Syz9vUduCv99ExLN
 
-Right now you can find crypto_homes for download at: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/crypto_homes
+#### Main repository location moved to private Tor Hidden Service Gitea Onion: http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/RightToPrivacy/crypto_homes
 
 make_vol command creates usb key + encrypted sdcard (/home) (luks) + adds to mount at boot.
 
